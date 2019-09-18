@@ -12,11 +12,11 @@
     <title>Hello, world!</title>
   </head>
   <body id="register">
-  <h1>Hello, world!</h1>
+
     <section>
       <div class="content row">
         <section class="main col col-lg-8">
-          
+          <?php include "_/components/php/header.php";?>
         </section>
 
         <section class="sidebar col col-lg-4">
