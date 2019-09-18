@@ -1,4 +1,8 @@
 $(function(){
+   //add tooltip
+   $("[data-toggle='tooltip']").tooltip({'placement': 'top',animation:true});
+
+
   //highlight nav , id home, contain anchor tag with id home and find the parent
   $("#home a:contains('Home')").parent().addClass("active");
   $("#artist a:contains('Artists')").parent().addClass("active");
