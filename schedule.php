@@ -16,7 +16,7 @@
     <section>
       <div class="content row">
       <?php include "_/components/php/header.php";?>
-        <section class="main col col-lg-8">  <!--main-->
+        <section class="main col col-lg-8"> 
           
         </section>
 

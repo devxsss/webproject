@@ -1,4 +1,4 @@
-<article class="abouthevenue">
+<article class="abouthevenue media">
 <h2>About the venue </h2>
 <a class="pull-right" href="venuetravel.php"><img src="images/hotels/contempo.jpg"  alt="Photo of hotel"></a>
 <div class="media-body">
