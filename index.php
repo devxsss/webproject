@@ -26,9 +26,12 @@
         <section class="main col col-lg-8">
            <?php include "_/components/php/article-intro.php";?>
            <?php include "_/components/php/article-aboutartist.php";?>
+           <?php include "_/components/php/article-aboutvenue.php";?>
         </section>
         <section class="sidebar col col-lg-4">
-  
+        <?php include "_/components/php/aside-register.php";?>
+        <?php include "_/components/php/aside-lastyear.php";?>
+        <?php include "_/components/php/aside-accordion.php";?>
         </section>
         
       

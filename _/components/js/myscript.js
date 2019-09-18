@@ -1,6 +1,18 @@
 $(function(){
    //add tooltip
    $("[data-toggle='tooltip']").tooltip({'placement': 'top',animation:true});
+    //show-modals
+   $(".modalphotos img").click(function(){
+      $("#modal").modal({
+         show:true,
+      })
+      var mysrc=this.src.substr(0,this.src.length-7)+".jpg";
+      $('#modalimage').attr("src",mysrc);
+   });
+  //hide-modals
+   $("#modalimage").click(function(){
+      $(".modal").modal("hide")
+   });
 
 
   //highlight nav , id home, contain anchor tag with id home and find the parent

@@ -33,6 +33,17 @@
         <li> <a href="register.php">Register</a></li>
        </ul>
       </section>
+
+<!--modal-->
+      <section id="modal" class="modal fade">
+        <div class="modal-dialog" role="document">
+         <div class="modal-body">
+          <img src="" alt="" id="modalimage">
+         </div>
+        </div>
+
+      </section>
+
      </header>
 
 　</div>

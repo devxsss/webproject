@@ -1,6 +1,7 @@
 <div class="component photogrid clearfix">
 
   <a href="artists.php#Barot_Bellingham"><img src="images/artists/Barot_Bellingham_tn.jpg" class="img-circle  data-toggle="tooltip" data-placement="top"  title="Barot Bellingham" alt="Photo of Barot Bellingham"></a>
+  <a href="artists.php#Jonathan_Ferrar"><img data-toggle="tooltip" class="img-circle" title="Jonathan Ferrar" src="images/artists/Jonathan_Ferrar_tn.jpg" alt="Photo of Jonathan Ferrar"></a>
 	<a href="artists.php#Gerard_Donahue"><img src="images/artists/Gerard_Donahue_tn.jpg" title="Gerard Donahue" class="img-circle" alt="Photo of Gerard Donahue"></a>
 	<a href="artists.php#Lorenzo_Garcia"><img src="images/artists/Lorenzo_Garcia_tn.jpg" title="Lorenzo Garcia" class="shadow-sm p-4 img-circle  data-toggle="tooltip" data-placement="top" alt="Photo of Lorenzo Garcia"></a>
 	<a href="artists.php#Hillary_Goldwynn"><img src="images/artists/Hillary_Goldwynn_tn.jpg" title="Hillary Goldwynn" class="shadow-lg p-4 img-circle  data-toggle="tooltip" data-placement="top" alt="Photo of Hillary Goldwynn"></a>
