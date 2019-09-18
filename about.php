@@ -12,9 +12,10 @@
     <title>Hello, world!</title>
   </head>
   <body id="about">
-  <h1>Hello, world!</h1>
+ 
     <section>
       <div class="content row">
+      <?php include "_/components/php/header.php";?>
         <section class="main col col-lg-8">
           
         </section>

@@ -15,8 +15,9 @@
  
     <section>
       <div class="content row">
-        <section class="main col col-lg-8">
-          <?php include "_/components/php/header.php";?> 
+      <?php include "_/components/php/header.php";?> 
+        <section class="main col col-lg-8"> <!--main-->
+         
         </section>
 
         <section class="sidebar col col-lg-4">
