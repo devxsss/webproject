@@ -1,4 +1,4 @@
-<div class="component photogrid clearfix">
+<div class="component photogrid clearfix"  style="object-fit:contain; width: 100%;">
 
   <a href="artists.php#Barot_Bellingham"><img src="images/artists/Barot_Bellingham_tn.jpg" class="img-circle  data-toggle="tooltip" data-placement="top"  title="Barot Bellingham" alt="Photo of Barot Bellingham"></a>
   <a href="artists.php#Jonathan_Ferrar"><img data-toggle="tooltip" class="img-circle" title="Jonathan Ferrar" src="images/artists/Jonathan_Ferrar_tn.jpg" alt="Photo of Jonathan Ferrar"></a>

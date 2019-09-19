@@ -8,22 +8,29 @@
     <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Merriweather&display=swap" rel="stylesheet"> 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="_/css/bootstrap.css" crossorigin="anonymous" media="screen">
-    <link rel="stylesheet" href="_/css/mystles.css" crossorigin="anonymous" media="screen">
+    <link rel="stylesheet" href="_/css/mystyle.css" crossorigin="anonymous" media="screen">
     <title>Hello, world!</title>
   </head>
   <body id="schedule">
 
-    <section>
+  <section class="container">
       <div class="content row">
-      <?php include "_/components/php/header.php";?>
-        <section class="main col col-lg-8"> 
-          
+          <?php include "_/components/php/header.php";?>
+         
+        <section class="main col col-lg-8">
+           <?php include "_/components/php/article-schedule.php";?>
+         
         </section>
-
         <section class="sidebar col col-lg-4">
-  
+        <?php include "_/components/php/aside-register.php";?>
+        <?php include "_/components/php/aside-aboutartist.php";?>
+        <?php include "_/components/php/aside-lastyear.php";?>
+        
         </section>
+        
+      
       </div>
+      <?php include "_/components/php/footer.php";?>
     </section>
    
 

@@ -1,4 +1,18 @@
 $(function(){
+ //activate schedule tabs
+
+ var hash = window.location.hash;
+ hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+ hash && $("ul.nav a[href='#monday']").parent().removeClass('active');
+ $("ul.nav a[href='"+ hash +"']").parent().addClass("active")
+
+  
+   //add animation jquery
+    $(".animationid").hover(function(){
+       $(this).addClass("hoverbutton").fadeIn();
+    });
+
+
    //add tooltip
    $("[data-toggle='tooltip']").tooltip({'placement': 'top',animation:true});
     //show-modals
