@@ -1,5 +1,11 @@
 <article class="abouthevenue media">
-<h2>About the venue </h2>
+<div class="flex-container">
+<h2 class="col-md-6">About the venue </h2>  
+<div class="icon media col-md-6 animated bounceInRight">
+      <span class="flaticon-pin"></span>
+</div>
+</div>
+
 <a class="pull-right" href="venuetravel.php"><img src="images/hotels/contempo.jpg"  alt="Photo of hotel"></a>
 <div class="media-body">
 <p>All CAC speaking events and gallery exhibits take place inside Hotel Contempo, located at 309 1st Avenue, in Downtown Seattle. Just a walk to the beach, the Space Needle, and a diverse sampling of restaurants and shopping makes the venue a much sought-after location for gatherings and conferences, year after year.</p>

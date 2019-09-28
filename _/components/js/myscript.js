@@ -1,5 +1,12 @@
 $(function(){
- //activate schedule tabs
+   $("aside.photosfromlastyear img").addClass("img-thumbnail");
+
+
+   //accordion
+   $("#monday.accordion-body").collapse("show");
+   $("#register #monday.accordion-body").removeClass("in");
+   
+   //activate schedule tabs
 
  var hash = window.location.hash;
  hash && $('ul.nav a[href="' + hash + '"]').tab('show');
@@ -42,5 +49,7 @@ $(function(){
      $(".dropdown-menu",this).fadeIn();
   }, function(){ $(".dropdown-menu",this).fadeOut();
   });
+
+
 
   });

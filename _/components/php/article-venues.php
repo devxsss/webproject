@@ -1,5 +1,11 @@
 <article class="aboutthevenues">
-	<h2>About the venue</h2>
+
+	<div class="flex-container">
+  <h2 class="col-md-6">About the venue </h2>  
+  <div class="media col-md-6 animated icon bounceInRight">
+        <span class="flaticon-pin"></span>
+  </div>
+  </div>
 	<article class="media">
 		<img class="pull-left" src="images/hotels/contempo.jpg" alt="Hotel Contempo">
 	  <div class="media-body">
@@ -33,4 +39,7 @@
 			<img class="pull-right img-rounded" src="images/hotels/gwendoline.jpg" alt="Gwendoline's Fancy Hotel">
 			<p class="media-body">In the heart of the West Edge district in Seattle, Gwendoline's Fancy, named after a Navy submarine that got lost at sea in 1910, is a central landing place for history buffs who can immerse themselves in the Museum of History located in the hotel mezzanine. For those travelers who aren't into history, there are plenty of other nearby sights to keep them entertained, including Pike Place Market and the Seattle Art Museum.</p>
 	</article>
+
+	<article id="map" style="width:100%;height:400px;"></article>
+	
 </article>

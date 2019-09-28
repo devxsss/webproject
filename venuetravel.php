@@ -7,8 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Merriweather&display=swap" rel="stylesheet"> 
     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="_/css/flaticon.css">
+    <link rel="stylesheet" href="_/css/mystyle.css" crossorigin="anonymous" media="screen">
     <link rel="stylesheet" href="_/css/bootstrap.css" crossorigin="anonymous" media="screen">
-    <link rel="stylesheet" href="_/css/mystles.css" crossorigin="anonymous" media="screen">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <title>Hello, world!</title>
   </head>
   <body id="venue">

@@ -1,0 +1,260 @@
+.hoverbutton{background-color:rgba(30, 22, 54, 0.6);color:rgba(255, 255, 255, 0.85);-webkit-transition:all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);-o-transition:all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);transition:all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);display:block;border-radius:4px;border-top-style:dotted;border-right-style:dotted;border-bottom-style:dotted;border-left-style:dotted;padding:10px 10px}.hoverbutton2{border-radius:8px;border-top-style:solid;border-right-style:solid;border-bottom-style:dotted;border-left-style:dotted;padding:10px 10px}.decor2{border-bottom-style:groove;border-top-style:inset;text-align:center;margin:10px 10px;border-color:antiquewhite}.decor3{border-radius:8px;border-top-style:dotted;border-right-style:dotted;border-bottom-style:dotted;border-left-style:dotted;padding:5px 10px;}
+
+//my colors
+@red: 				#BA83D4;
+@magenta: 		#FDF5E3;
+@beige: 			#FDF5E3;
+@yellow:			#FDAD22;
+@purple:			#475C98;
+@darkblue: 		#586E75;
+@pink:				#D33682;
+@blue :	#5F9EA0;
+@steel-blue :	#4682B4;
+@corn-flower: 	#6495ED;
+@dodger-blue:#1E90FF ;
+@light-blue:	#ADD8E6 ;
+@sky-blue:	#87CEEB;
+@lavender :	#E6E6FA 	;
+@thistle 	:#D8BFD8 	;
+@plum :	#DDA0DD ;
+@violet :	#EE82EE 	;
+@orchid :	#DA70D6;
+@lightpink: 	#FFB6C1; 	
+
+
+
+@headlineFontFamily:			"Bree Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@copyFontFamily:					Merriweather,Georgia, "Times New Roman", Times, serif;
+@paragraphfont:  'PT Serif', serif;
+
+h1,h2,h3,h4,h5,h6{
+  font-family: @headlineFontFamily;
+  color:@purple;
+}
+
+p{
+ font-family: @paragraphfont;
+ font-size:1.1em;
+line-height:1.4em;
+color:@darkblue;
+padding:0 2%;
+
+
+}
+
+.container{
+  background:@lavender;
+  border-radius:60px 0 60px 60px;
+  
+  @media(max-width:767px){
+    border-radius: 20px 0 0 0;
+  }
+}
+
+
+.services .icon span {
+  font-size: 60px;
+  color: #6b76ff;
+  
+}
+
+
+body{
+  background:@lavender;
+  
+   
+}
+
+.block-6 {
+  margin-bottom: 40px;
+}
+
+.services {
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.d-block {
+  display: block !important;
+}
+
+.flex-container{
+  display:flex;
+  
+}
+
+.icon{
+  padding:5px;
+}
+
+.flex-container .icon span{
+  color:#6b75ff;
+  font-size:30px;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+
+  font-size: 40px;
+  
+  }
+
+  body{
+
+    background: url(../../images/misc/9.jpg);
+    margin-top:30px;
+  }
+
+ .main>article{
+   margin: 0 5%;
+ }
+
+ .sidebar>aside{
+padding-right:5%;
+@media(max-width:767px){
+padding-left:5%;
+ }
+}
+
+
+
+
+.content .navbar{
+  margin-bottom:0;
+}
+
+.container .row{
+  margin-left:0px;
+  margin-right:0px;
+}
+
+section .navbar{
+  padding:5px;
+}
+
+//.col-lg-12{
+  //height:0px;
+//:;}
+
+
+footer{
+
+ul.breadcrumb{
+background-color:@lavender;
+padding-top:25px;
+margin-top:100px;
+}
+
+}
+.navbar{
+  border-right:none;
+  border-left:none;
+  border-radius:0;
+}
+
+.accordion-heading{
+  background:@purple;
+  a{
+    color:white;
+  }
+}
+
+.navbar{
+  background-color: @purple;
+  border-radius:20x;
+}
+
+.photogrid img{
+  width:96px;
+  margin: 0 5px 5px 0;
+  @media(max-width:990px){
+    width:54px;
+  }
+}
+
+aside{
+  h2{
+    font-size:1.0cm;
+    border-bottom:1px dotted @purple;
+    color:@pink;
+  }
+}
+
+h2{
+  font-size:35px;
+}
+
+aside>h2{
+    font-size:35px;
+  
+}
+
+#branding{
+  img{
+    margin:10px 0px 5px 25px;
+  }
+}
+
+
+.col-lg-12 {
+   height:100px;
+    @media(max-width:768px){
+    height:auto;
+
+    }
+}
+
+.nav-tabs {
+  li a:hover{
+    background:@yellow;
+    color:@pink;
+  }
+}
+
+
+.scrollspy .nav {
+	background: @purple;
+	margin-top: 20px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+  border-radius: 10px;
+  @media(max-width:979px){
+    width:13%;
+    max-width:120px;
+  }
+  @media(max-width:1250px){
+    width:13%;
+    max-width:120px;
+  }
+
+  li{
+    border-bottom:1px solid darken(grey,10%);
+    outline:1px solid @magenta;
+
+  }
+  a {color:white;
+    
+
+
+  }
+  a:hover{
+    color:black;
+    background:@yellow;
+  }
+  li.active{
+   background: @pink;
+}
+  li.active:first-child{
+  border-top:none;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+  
+}
+  li:last-child{
+    border-bottom:none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+
+}
