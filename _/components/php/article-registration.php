@@ -6,12 +6,12 @@
 	<br>
 	<form class="registration form-horizontal" action="#" >
 
-	  <fieldset id="personalinfo">
+	  <fieldset id="personalinfo form-group">
 			<legend>Personal Info</legend>
 		
 				<section class="row">
 					<label class="col col-lg-4 control-label" for="myname">Name</label>
-					<div class="controls">
+					<div class="form-control">
 						<input class="col col-lg-6" type="text" name="myname" id="myname" autofocus placeholder="Last, First" required>
 					</div><!-- controls -->
 				</section><!-- row -->
