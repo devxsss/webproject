@@ -1,5 +1,7 @@
 <article>
-  <h2>Contemporary Art Conference</h2>
-	<p>Join over 500 hundred of the most creative and brilliant minds of art colleges all around the world for five days of lectures by world-renowned art scholars and artists, and seven days and nights of gallery exhibits featuring the best in contemporary art, including painting, sculpture, and more, in the beautiful halls of Hotel Contempo in the heart of Seattle.</p>
-  <p class="hidden-sm">The Roux Academy's annual conference and exhibit is designed to foster a close-knit relationship amongst artists at various universities around the world. No matter what school you attend - if you're an art student at an accredited art school anywhere in the world, you can attend the conference. But sign up early, as this not-to-miss conference sells out quickly, and the waiting list is long. In addition, art students are encouraged to send in works from their school portfolios to be considered for hanging in the CAC exhibit halls, as well as to be selected as a Featured Artist.</p>
+  <h2>現代美術会議</h2>
+	<p>世界的に有名な芸術学者や芸術家による5日間の講義と、絵画などの最高の現代美術を紹介する7日間のギャラリー展示で、世界中の5億人以上の最も創造的で華麗な芸術大学の仲間に加わってください。シアトルの中心部にあるホテルコンテンポの美しいホールでの彫刻など。
+
+ビッグウエストアカデミーの年次会議と展示会は、世界中のさまざまな機関のアーティストの間で緊密な関係を促進するように設計されています。会議に参加できますが、この見逃せない会議はすぐに完売し、待機リストが長いため、早めにサインアップしてください。 CAC展示ホールで、また注目アーティストとして選出されます。</p>
+  <p class="hidden-sm">ビッグウエストアカデミーの年次会議および展示会は、世界中のさまざまな大学のアーティストの間で緊密な関係を促進するように設計されています。どの学校に通っていても、世界中の認定された美術学校の美術学生であれば、会議に参加できます。しかし、この見逃せない会議はすぐに売り切れになり、順番待ちリストは長いので、早めにサインアップしてください。さらに、美術の学生は、学校のポートフォリオから作品を送って、CAC展示ホールに参加することを検討し、注目アーティストに選ばれることをお勧めします。</p>
 </article>

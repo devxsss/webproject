@@ -1,6 +1,6 @@
 <article class="abouthevenue media">
 <div class="flex-container">
-<h2 class="col-md-6">About the venue </h2>  
+<h2 class="col-md-6">会場について </h2>  
 <div class="icon media col-md-6 animated bounceInRight">
       <span class="flaticon-pin"></span>
 </div>
@@ -8,8 +8,8 @@
 
 <a class="pull-right" href="venuetravel.php"><img src="images/hotels/contempo.jpg"  alt="Photo of hotel"></a>
 <div class="media-body">
-<p>All CAC speaking events and gallery exhibits take place inside Hotel Contempo, located at 309 1st Avenue, in Downtown Seattle. Just a walk to the beach, the Space Needle, and a diverse sampling of restaurants and shopping makes the venue a much sought-after location for gatherings and conferences, year after year.</p>
-<p class="hidden-sm">Hotel Contempo is the perfect spot for a gathering of modern artists. Not only are the conference rooms and halls decked with breathtaking contemporary art and sculptures, but the individual rooms are as unique as the renowned artists who were commissioned to decorate them. From the Ross Monroe Purple suite filled wall to wall with paintings in his signature palette of violet and lavender to the Tess Lessinger Sculpted Universe suite, with dozens of original sculptures, including the bronze-casted toilet, visitors are sure to be intrigued and comforted during their stay at Hotel Contempo.  For those who opt to stay at another location, there is certainly no shortage of hotels in Downtown Seattle. Ranging from shabby chic to the ultimate in sophistication - there is a something to suit everyone's taste.</p>
+<p>すべてのCACスピーキングイベントおよびギャラリー展示は、シアトルのダウンタウンにある309 1st AvenueにあるHotel Contempo内で行われます。ビーチ、スペースニードル、レストランやショッピングのさまざまなサンプリングまで歩いていくだけで、会場は年々集まりや会議のために非常に人気のある場所になります。</p>
+<p class="hidden-sm">ホテルコンテンポは、現代の芸術家の集まりに最適な場所です。会議室とホールは、息をcontemporaryむような現代アートと彫刻で飾られているだけでなく、個々の部屋は、装飾を依頼された有名なアーティストと同じくらいユニークです。ロスモンローパープルスイートから壁一面に至るまで、バイオレットとラベンダーの特製パレットで描かれた絵画、テスレッシンガースカルプテッドユニバーススイート、ブロンズ製のトイレを含むオリジナルの彫刻が多数あり、訪問者はきっと魅了され、慰められます。ホテルコンテンポでの滞在。別の場所に滞在することを選択した場合、ダウンタウンシアトルのホテルが不足することはありません。みすぼらしいシックから究極の洗練されたものまで、誰の好みにも合うものがあります。</p>
 </div>
 
 </article>

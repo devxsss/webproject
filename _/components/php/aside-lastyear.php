@@ -1,6 +1,6 @@
 <aside class="photosfromlastyear">
-	<h2>Last year</h2>
-	<p>Did you miss last year's conference? Check out some photos from the event.</p>
+	<h2>去年</h2>
+	<p>去年の会議を見逃しましたか？イベントの写真をご覧ください。</p>
 	<div class="modalphotos photogrid clearfix">
 		<img src="images/slides/artist_on_table_tn.jpg" alt="Artist on a table">
 		<img src="images/slides/at_the_museum_tn.jpg" alt="At the museum">

@@ -1,8 +1,9 @@
 <article class="media">
-<h2>About the artists</h2>
-	<p>The Roux Academy gets thousands of submissions every year for artists interesting in participating in the CAC exhibits, and selects approximately 200 distinct pieces of contemporary art for display in their collective exhibit.</p>
-	<p class="hidden-sm">In addition, 12 individuals are honored as Featured Artists - each being granted his or her own exhibit hall to display entire collections or themed pieces. Each Featured Artist has an opportunity to speak at the conference to share his or her vision, perspective, and techniques with conference attendees. It is truly an honor to be a CAC Featured Artist and many past students artists who were featured at CAC have gone on to brilliant careers in art.</p>
+<h2>アーティストについて</h2>
+	<p>ビッグウェストアカデミーは、CAC展示会への参加に興味のあるアーティストのために毎年数千の応募作品を受け取り、約200の異なる現代美術作品を選択して、集合展示に展示しています。</p>
+	<p class="hidden-sm">さらに、12人の個人が注目アーティストとして表彰されます-それぞれがコレクション全体またはテーマのある作品を展示するために自分の展示ホールを許可されます。各注目アーティストは、カンファレンスで講演する機会があり、自分のビジョン、展望、技術をカンファレンス参加者と共有します。 CACの注目アーティストになれたことは本当に名誉なことであり、CACで紹介された多くの過去の学生のアーティストは、芸術の輝かしいキャリアを続けています。</p>
   
   <?php include "snippet-artistphotogrid.php";?>
-  <a href="artist.php" class="btn btn-primary">About the Artists</a>
+  <a href="artist.php" class="btn btn-primary">アーティストについて
+  </a>
 </article>

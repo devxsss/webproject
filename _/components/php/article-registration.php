@@ -1,7 +1,7 @@
 <article class="registrationform">
 	<div >
 	<h2 >Registration form</h2>
-	<p>We're not currently taking registrations for the Roux Academy Conference, but if you want to be placed into our mailing list for more information, please complete the form below.</p>
+	<p>We're not currently taking registrations for the Big West Academy Conference, but if you want to be placed into our mailing list for more information, please complete the form below.</p>
 	</div>
 	<br>
 	<form class="registration form-horizontal" action="#" >
@@ -59,7 +59,7 @@
 				</section><!-- row -->
 			
 				<section class="row">
-		  	<label class="col col-lg-4 control-label" for="reference">How did you hear about the Roux Academy Conference?</label>
+		  	<label class="col col-lg-4 control-label" for="reference">How did you hear about the Big West Academy Conference?</label>
 					<div class="controls col col-lg-6 center">
 						<select   name="reference" id="reference">
 							<option>Choose...</option>
@@ -71,6 +71,6 @@
 				</section><!-- row -->
    <br>
 	  </fieldset>
-	  <button class="btn btn-primary" style="margin:auto;display:block;" type="submit">Submit</button>
+	  <button class="btn btn-primary" style="margin:auto;display:block;" type="submit" name="submit">Submit</button>
 	</form>
 </article>

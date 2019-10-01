@@ -13,14 +13,15 @@
     <title>Hello, world!</title>
   </head>
   <body id="register">
-
+  
+  <form method="post" action="submit2.php">  
   <section class="container">
       <div class="content row">
           <?php include "_/components/php/header.php";?>
          
         <section class="main col col-lg-8">
            <?php include "_/components/php/article-registration.php";?>
-         
+          
         </section>
         <section class="sidebar col col-lg-4">
          <?php include "_/components/php/aside-register.php";?>
@@ -31,7 +32,7 @@
       </div>
       <?php include "_/components/php/footer.php";?>
     </section>
-   
+   </form>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
