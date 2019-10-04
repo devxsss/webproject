@@ -1,9 +1,9 @@
 <article id="Richard_Tweed" class="media">
-	<h2>Richard Tweed</h2>
+	<h2>リチャード・ツイード</h2>
 	<img class="pull-left img-rounded" src="images/artists/Richard_Tweed_tn.jpg" alt="Photo of Richard Tweed">
 	<div class="media-body">
-		<p>Art is Richard's third career. He is a Vietnam veteran who proudly served his country for 15 years after the war. As an adult, Richard returned to college to pursue a degree in Architecture, and was a practicing and award-winning architect for another 30 years. His architectural designs awakened within him a deep longing for painting and drawing, and he began slowly by painting incredibly unique renditions of his successful architectural structures. Seeing peoples' response to his paintings, brought an excitement that Richard had never known, and upon retiring, Richard enrolled in the Big West Academy of Art, Media, and Design to learn all he could about painting.</p>
-		<p>In three short years, Richard jump-started his career as one of the most talented street portrait artists in New York City, unearthing a hidden talent that he never knew was within him. Now, as a seasoned portrait artist at the age of 72, and the oldest graduate of Big West Academy, Richard loves to share his success story and remind people that it's never too late to follow your heart. Richard will be a featured lecturer on Wednesday, when he discusses his "38 Faces" collection.</p>
+		<p>アートはリチャードの3番目のキャリアです。彼はベトナム戦争のベテランであり、戦後15年間、誇らしげに彼の国に仕えました。大人として、リチャードは大学に戻り、建築学の学位を取得し、さらに30年間、実践的で受賞歴のある建築家でした。彼の建築デザインは彼の中で絵画とドローイングへの深い切望を目覚めさせ、彼は成功した建築構造の信じられないほどユニークな演出をゆっくりと描き始めました。彼の絵に対する人々の反応を見て、リチャードが知らなかった興奮をもたらし、リチャードは引退して、彼が絵についてできることをすべて学ぶために、芸術、メディア、デザインのビッグウェストアカデミーに入学しました</p>
+		<p>3年という短い期間で、リチャードはニューヨーク市で最も才能のあるストリートポートレートアーティストの1人としてキャリアをスタートさせ、自分の内にあるとは知らなかった隠れた才能を発掘しました。現在、72歳のベテランポートレートアーティストであり、ビッグウエストアカデミーの最年長であるリチャードは、成功の物語を共有し、あなたの心に従うのに遅すぎることはないことを人々に思い出させるのが大好きです。リチャードは、彼の「38 Faces」コレクションについて議論する水曜日に特集講師になります。</p>
 		<section class="modalphotos photogrid">
 			<h3>Artwork</h3>
 			<img src="images/artwork/Richard_Tweed_01_tn.jpg" alt="Art from Richard Tweed">

@@ -1,9 +1,11 @@
 <article id="Riley_Rewington" class="media">
-	<h2>Riley Rudolph Rewington</h2>
+	<h2>ライリー・ルドルフ・レウィントン</h2>
 	<img class="pull-left img-rounded" src="images/artists/Riley_Rewington_tn.jpg" alt="Photo of Riley Rewington">
 	<div class="media-body">
-		<p>Riley started out as musician and street performance artist, and now blends painting and photography with audio, video, and computer multimedia to create what he calls "Music and Multimedia Artworks." Riley's innovations in using multimedia to express art have created a youth culture movement in his town of Portland, in which he remains at the forefront. In his role as the founder of the MMA art form, Riley has become an inspiration to many up and coming artists. However, the part Riley insists is most important to him, is that he's helped many troubled youth take control of their lives, and create their own unique, positive futures. Seeing kids he's mentored graduate from high school and enroll in college, gives art the purpose that Riley so craves.</p>
-		<p>A first-year student at the Big West Academy of Art, Media, and Design, Riley is already changing the face of modern art at the university. Riley's exquisite abstract pieces have no intention of ever being understood, but instead beg the viewer to dream, create, pretend, and envision with their mind's eye. Riley will be speaking on the "Art of Abstract" during Thursday's schedule.</p>
+		<p>ライリーはミュージシャンおよびストリートパフォーマンスアーティストとしてスタートしましたが、現在では絵画と写真をオーディオ、ビデオ、コンピューターマルチメディアと融合させ、「音楽とマルチメディアアートワーク」と呼ぶものを作成しています。マルチメディアを使用して芸術を表現するライリーの革新は、ポートランドの町で若者文化運動を生み出しました。 MMAアートフォームの創設者としての役割で、ライリーは多くの新進アーティストのインスピレーションになりました。しかし、ライリーが彼にとって最も重要であると主張する部分は、彼が多くの問題を抱えた若者が彼らの人生をコントロールし、彼ら自身のユニークで前向きな未来を創造するのを助けたということです。彼が高校を卒業し、大学に入学するよう指導した子供を見ると、ライリーが切望する目的がアートに与えられます。</p>
+		<p> 発音を調べる
+
+ビッグウェストアカデミーオブメディア、メディア、デザインの1年生であるライリーは、すでに大学で現代アートの顔を変えています。ライリーの絶妙な抽象作品には、理解されるつもりはありませんが、その代わりに視聴者に心の目で夢を見、創造し、ふりをし、思い描くように頼みます。ライリーは、木曜日のスケジュール中に「抽象芸術」について講演します。</p>
 		<section class="modalphotos photogrid">
 			<h3>Artwork</h3>
 			<img src="images/artwork/Riley_Rewington_01_tn.jpg" alt="Art from Riley Rewington">

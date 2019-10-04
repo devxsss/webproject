@@ -32,17 +32,18 @@
           <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
             <li><a class="dropdown-item" href="artist.php">Artists</a><li>
             <li class="divider"></li>
-            <li><a class="dropdown-item" href="artist.php#Barot_bellingham">Barot Bellingham</a><li>
-            <li><a class="dropdown-item" href="artist.php#Gerard_Donahue">Gerard_Donahue</a><li>
-            <li><a class="dropdown-item" href="artist.php#Jonathan_Ferrar">Jonathan Ferrar</a><li>
-            <li><a class="dropdown-item" href="artist.php#Hillary_Goldywnn">Hilarry Goldwynn</a></a><li>
-            <li><a class="dropdown-item" href="artist.php#Hassum_Harrod">Hassum Harrod</a><li>
-            <li><a class="dropdown-item" href="artist.php#Jennifer_Jerome">Jennifer Jerome</a><li>
-            <li><a class="dropdown-item" href="artist.php#Lavonne_Larue">Lavonne Larue</a><li>
-            <li><a class="dropdown-item" href="artist.php#Riley_Rewington">RIley Rewington</a><li>
-            <li><a class="dropdown-item" href="artist.php#Constane_Smith">Constane_Smith</a><li>
+            <li><a class="dropdown-item" href="artist.php#Barot_bellingham">バロット・ベリンガム</a><li>
+            <li><a class="dropdown-item" href="artist.php#Gerard_Donahue">ジェラルド・ケント・ドナヒュー</a><li>
+            <li><a class="dropdown-item" href="artist.php#Jonathan_Ferrar">ジョナサン・G・フェラーII</a><li>
+
+            <li><a class="dropdown-item" href="artist.php#Hillary_Goldywnn">ヒラリー・ゴールドウィン・ポスト</a><li>
+            <li><a class="dropdown-item" href="artist.php#Hassum_Harrod">ハッサム・ハロッド</a><li>
+            <li><a class="dropdown-item" href="artist.php#Jennifer_Jerome">Jェニファー・ジェローム</a><li>
+            <li><a class="dropdown-item" href="artist.php#Lavonne_Larue">ラボンヌ・L・ラルー</a><li>
+            <li><a class="dropdown-item" href="artist.php#Riley_Rewington">ライリー・ルドルフ・レウィントン</a><li>
+            <li><a class="dropdown-item" href="artist.php#Constane_Smith">コンスタンス・オリビア・スミス</a><li>
             <li><a class="dropdown-item" href="artist.php#Xhou_Ta">Xhou_Ta</a><li>
-            <li><a class="dropdown-item" href="artist.php#Richard_Tweed">Richard Tweed</a><li>
+            <li><a class="dropdown-item" href="artist.php#Richard_Tweed">リチャード・ツイード</a><li>
             
           </ul>
           </li>

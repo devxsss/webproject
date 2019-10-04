@@ -1,7 +1,7 @@
 <article class="registrationform">
 	<div >
-	<h2 >Registration form</h2>
-	<p>We're not currently taking registrations for the Big West Academy Conference, but if you want to be placed into our mailing list for more information, please complete the form below.</p>
+	<h2 >登録フォーム</h2>
+	<p>現在、Big West Academy Conferenceへの登録は行っていませんが、詳細についてメーリングリストに登録する場合は、以下のフォームに記入してください。</p>
 	</div>
 	<br>
 	<form class="registration form-horizontal" action="#" >

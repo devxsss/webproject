@@ -1,10 +1,16 @@
 <article id="LaVonne_LaRue" class="media">
-	<h2>LaVonne L. LaRue</h2>
+	<h2>ラボンヌ・L・ラルー</h2>
 	<img class="pull-left img-rounded" src="images/artists/LaVonne_LaRue_tn.jpg" alt="Photo of LaVonne LaRue">
 	<div class="media-body">
-		<p>LaVonne's giant-sized paintings all around Chicago tell the story of love, nature, and conservation - themes that are central to her heart. LaVonne's love affair with mural and graffiti paintings began when she was just a child and rode the train into Harlem with her parents to visit her grandfather. Along the route, she would focus on the graffiti art, sometimes being amazed at its beauty and sometimes exclaiming that it was a terrible waste of a building canvas.</p> 
-		<p>She knew that once she was old enough she would begin to create art along train and bus routes in inner cities to provide everyone with a chance to glimpse the rare beauty of phenomenal graffiti murals.</p>
-		<p>Even after moving with her family from New York to Chicago in her early teens, her dream stayed alive, and she was the first person ever to be paid to paint a mural on the Reynold's Sky Tower – at the early age of 16. LaVonne will share her love and skill of graffiti art on Monday's schedule, as she starts the painting of a 20-foot high wall in the Rousseau Room of Hotel Contempo in front of a standing-room only audience in Art in Unexpected Places.</p>
+		<p> 発音を調べる
+
+シカゴ中のLaVonneの巨大な絵画は、愛、自然、保護の物語を語ります-彼女の中心にあるテーマ。ラヴォンヌの壁画や落書きの絵との恋愛は、幼少の頃から始まり、両親と一緒に電車に乗ってハーレムに行き、祖父を訪ねました。ルートに沿って、彼女は落書きアートに焦点を当て、時にはその美しさに驚き、時にはそれが建物のキャンバスのひどい無駄だと叫びました。</p> 
+		<p> 発音を調べる
+
+彼女は十分に年をとると、都心の電車やバスの路線に沿ってアートを作成し、誰もが驚異的な落書き壁画の珍しい美しさを垣間見る機会を提供することを知っていました。</p>
+		<p> 発音を調べる
+
+10代前半に家族と一緒にニューヨークからシカゴに移った後も、彼女の夢は生き続け、16歳の若さでレイノルズのスカイタワーに壁画を描いた最初の人となりました。 Art in Unexpected Placesのスタンディングルームのみのオーディエンスの前で、ホテルコンテンポのルソールームで高さ20フィートの壁の絵を描き始め、月曜日のスケジュールでグラフィティアートの愛とスキルを共有します。</p>
 		<section class="modalphotos photogrid">
 			<h3>Artwork</h3>
 			<img src="images/artwork/LaVonne_LaRue_01_tn.jpg" alt="Art from LaVonne LaRue">

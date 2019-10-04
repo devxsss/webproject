@@ -1,11 +1,15 @@
 <article id="Constance_Smith" class="media">
-	<h2>Constance Olivia Smith</h2>
+	<h2>コンスタンス・オリビア・スミス</h2>
 	<img class="pull-left img-rounded" src="images/artists/Constance_Smith_tn.jpg" alt="Photo of Constance Smith">
 	<div class="media-body">
-		<p>Constance received the Fullerton-Brighton-Norwell Award for Modern Art for her mixed-media image of a tree of life, with jewel-adorned branches depicting the arms of humanity, and precious gemstone-decorated leaves representing the spouting buds of togetherness. The daughter of a New York jeweler, Constance has been salvaging the discarded remnants of her father's jewelry-making since she was five years old, and won the New York State Fair grand prize at the age of 8 years old for a gem-adorned painting of the Manhattan Bridge.</p>
-		<p>Constance has been commissioned to "paint" the altar of a historic church in Wicklow, Ireland with gemstones that belonged to several prominent Irish families. She will depart for Ireland shortly after the CAC and plans to complete the work over a course of 4 to 6 months. Join Constance on Thursday for her session on " The Art of Salvaging" where she'll give insight into collecting and finding salvageable "junk" and turning it into beautiful art.</p>
+		<p> 発音を調べる
+
+コンスタンツは、人類の腕を描いた宝石で飾られた枝と、一体感の芽を表す貴重な宝石で飾られた葉を持つ、生命の木のミクストメディアイメージでモダンアートのフラートンブライトンノーウェル賞を受賞しました。ニューヨークの宝石商の娘であるコンスタンスは、5歳の時から父親の宝石製造の残骸を救い出し、8歳で宝石で飾られた絵画でニューヨークステートフェア大賞を受賞しました。マンハッタン橋の.</p>
+		<p> 発音を調べる
+
+アイルランドのウィックローにある歴史的な教会の祭壇を、いくつかの著名なアイルランドの家族が所有する宝石で「塗る」ことを任されています。彼女はCACの直後にアイルランドに向けて出発し、4か月から6か月かけて作業を完了する予定です。木曜日にコンスタンツに参加して、「The Art of Salvaging」のセッションに参加して、彼女が回収可能な「ジャンク」を見つけてそれを美しいアートに変える洞察を与えます。</p>
 		<section class="modalphotos photogrid">
-			<h3>Artwork</h3>
+			<h3>アートワーク</h3>
 			<img src="images/artwork/Constance_Smith_01_tn.jpg" alt="Art from Constance Smith">
 			<img src="images/artwork/Constance_Smith_02_tn.jpg" alt="Art from Constance Smith">
 			<img src="images/artwork/Constance_Smith_03_tn.jpg" alt="Art from Constance Smith">
